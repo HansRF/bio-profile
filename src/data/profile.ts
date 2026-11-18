@@ -50,7 +50,7 @@ export const PROFILE_DATA: ProfileData = {
   role: 'Product Designer & Content Creator',
   bio: 'Product Designer & Creative Technologist in Jakarta. Sharing UI craft, design systems, and everyday creator workflows.',
   email: 'hello@nadiakusuma.studio',
-  avatarUrl: '/user.png',
+  avatarUrl: './user.png',
   avatarAlt: 'Profile portrait of Nadia Kusuma',
   initials: 'NK',
   socials: [

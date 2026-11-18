@@ -49,7 +49,7 @@ export const PROFILE_DATA: ProfileData = {
   username: '@budiono.s',
   role: 'Product Designer & Content Creator',
   bio: 'Product Designer & Creative Technologist in Jakarta. Sharing UI craft, design systems, and everyday creator workflows.',
-  email: 'hello@budiono.s.studio',
+  email: 'hello@budiono.studio',
   avatarUrl: './user.png',
   avatarAlt: 'Profile portrait of Budiono Siregar',
   initials: 'NK',

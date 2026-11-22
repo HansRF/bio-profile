@@ -86,13 +86,13 @@ export const PROFILE_DATA: ProfileData = {
       url: 'https://x.com',
       icon: 'twitter',
     },
-    // {
-    //   id: 'github',
-    //   label: 'GitHub',
-    //   handle: 'budiono.s',
-    //   url: 'https://github.com',
-    //   icon: 'github',
-    // },
+    {
+      id: 'github',
+      label: 'GitHub',
+      handle: 'budiono.s',
+      url: 'https://github.com',
+      icon: 'github',
+    },
   ],
   links: [
     {

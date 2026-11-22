@@ -44,7 +44,7 @@ export const PROFILE_DATA: ProfileData = {
   fullName: "Budiono Siregar",
   username: "@budiono.s",
   role: "Product Designer & Content Creator",
-  bio: "Full-Stack Developer & Web Designer based in Bekasi, Indonesia. Creating modern web experiences, building functional applications, and exploring creative approaches to web development and design..",
+  bio: "Full-Stack Developer & Web Designer based in Bekasi, Indonesia. Creating modern web experiences, building functional applications, and exploring creative approaches to web development and design.",
   email: "hello@budiono.studio",
   avatarUrl: "./user.png",
   avatarAlt: "Profile portrait of Budiono Siregar",

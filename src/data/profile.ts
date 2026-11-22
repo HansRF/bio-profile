@@ -125,24 +125,24 @@ export const PROFILE_DATA: ProfileData = {
       url: 'https://wa.me/6281234567890',
       icon: 'whatsapp',
     },
-    {
-      id: 'portfolio',
-      title: 'My Portfolio',
-      url: 'https://dribbble.com',
-      icon: 'portfolio',
-    },
-    {
-      id: 'github-repo',
-      title: 'GitHub Repository',
-      url: 'https://github.com',
-      icon: 'github',
-    },
-    {
-      id: 'contact',
-      title: 'Contact Me',
-      url: 'mailto:hello@budiono.s.studio',
-      icon: 'mail',
-    },
+    // {
+    //   id: 'portfolio',
+    //   title: 'My Portfolio',
+    //   url: 'https://dribbble.com',
+    //   icon: 'portfolio',
+    // },
+    // {
+    //   id: 'github-repo',
+    //   title: 'GitHub Repository',
+    //   url: 'https://github.com',
+    //   icon: 'github',
+    // },
+    // {
+    //   id: 'contact',
+    //   title: 'Contact Me',
+    //   url: 'mailto:hello@budiono.s.studio',
+    //   icon: 'mail',
+    // },
   ],
   madeWithText: 'Made with care by Budiono Siregar',
 };

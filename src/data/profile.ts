@@ -40,10 +40,7 @@ export interface ProfileData {
   madeWithText: string;
 }
 
-/**
- * Centralized Link-in-Bio profile data.
- * Edit this file to customize avatar, display name, username, bio, social icons, and link buttons.
- */
+
 export const PROFILE_DATA: ProfileData = {
   fullName: 'Budiono Siregar',
   username: '@budiono.s',
